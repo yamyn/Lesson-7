@@ -1,0 +1,1 @@
+[{"date":"20/02/2018","price":58,"shelfLife":30,"type":"Apple"},{"date":"20/02/2018","price":60,"shelfLife":40,"type":"Lemon"},{"date":"20/02/2018","price":100,"shelfLife":20,"type":"Pear"},{"date":"20/02/2018","price":120,"shelfLife":20,"type":"Apricot"}]

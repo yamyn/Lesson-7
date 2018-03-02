@@ -1,0 +1,1 @@
+[{"date":"19/02/2018","price":60,"shelfLife":15,"type":"Kiwi"},{"date":"19/02/2018","price":35,"shelfLife":50,"type":"Orange"}]
